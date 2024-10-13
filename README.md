@@ -1,8 +1,22 @@
-# React + Vite
+## 3W technologies Assignment Task-1 social-media 
+## Nxtwave 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Technologies used :
+1.Node js
+2.Express 
+3.mondoDb Database
+4.React for Frontend 
+5.Tailwind Css
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+We can send the name and social connection and Images to backend 
+once you sumbited data pop will be appear "Subitted Succesfully"
+
+to view the data you should login using as Admin
+## name : mahesh 
+## password : Mahesh@123 
+
+or 
+
+## name : 3W
+## password : 3W@123
